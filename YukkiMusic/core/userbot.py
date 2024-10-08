@@ -38,9 +38,9 @@ class Userbot(Client):
         try:
             await client.start()
             try:
-                await client.join_chat("TheYukki")
-                await client.join_chat("YukkiSupport")
-                await client.join_chat("TheTeamVivek")
+                await client.join_chat("Vip_Sakil_Bio")
+                await client.join_chat("FellingThroughShayari")
+                await client.join_chat("Vip_Stylish_Bio")
             except:
                 pass
 
